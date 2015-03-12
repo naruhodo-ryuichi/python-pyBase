@@ -1,6 +1,7 @@
 #pyBase
 
 ##About
+skeleton for python projects
 
 ##Requirements
 Python >= 2.6
@@ -11,6 +12,7 @@ python setup.py install
 ```
 
 ##Usage
+---
 
 License & Authors
 -----------------
